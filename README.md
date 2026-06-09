@@ -1,5 +1,3 @@
-# AI-Chatbot-Security
-Thought about prompting security for AI Chatbots
 # AI Chatbot Security
 
 * 1. Prompt Injection (Core Attack & Manipulation)
